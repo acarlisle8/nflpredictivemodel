@@ -14,7 +14,7 @@ The Ridge Model was trained on 10 years of data from 2010 to 2020. The alpha was
 
 **Results** 
 
-The model achieved an RMSE of 8.223 and an R-squared score of 0.655. The RMSE indicates that, on average, the model's predictions are off by about 8 touchdowns. The R-squared score indicates that the model explains about 65% of the variation in the number of touchdowns. The results could definitely be improved on. 
+The model achieved an RMSE of 8.223 and an R-squared score of 0.655. The RMSE indicates that, on average, the model's predictions are off by about 8 touchdowns.  
 
 **Next Steps**
 
